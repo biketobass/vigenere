@@ -1,5 +1,5 @@
 # vigenere
-This is code implements a Vigenere cipher. I wrote the code so that my daughter could exchange encrypted messages with a couple of her friends. It's based on the description of a Vigenere Square as descibed by Simon Singh in *The Code Book*.
+This code implements a Vigenere cipher. I wrote the code so that my daughter could exchange encrypted messages with a couple of her friends. It's based on the description of a Vigenere Square as descibed by Simon Singh in *The Code Book*.
 
 The repository includes the following files:
 * `vigenere.py` which defines a VigenereSquare class.
