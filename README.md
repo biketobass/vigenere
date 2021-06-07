@@ -5,6 +5,7 @@ The repository includes the following files:
 * `vigenere.py` which defines a VigenereSquare class.
 * `example.py` which gives an example of how to use a VigenereSquare object to encrypt and decrypt messages.
 * `__init__.py` which is an empty file that simply tells python to look in the current directory when you `import vigenere`.
+
 In order to run the code you will need all of the files.
 
 You will also need to have pandas installed because `vigenere.py` imports it and uses a pandas DataFrame to store the square. If you don't have pandas installed, running `pip install pandas` should take care of it.
